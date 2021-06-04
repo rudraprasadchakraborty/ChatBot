@@ -1,0 +1,1 @@
+https://api.eu-gb.assistant.watson.cloud.ibm.com/instances/b22dab54-41bc-4bf2-abef-3d62709a6dca/v2/assistants/137ae881-20d1-47ba-941e-9565bdbf13d2/sessions

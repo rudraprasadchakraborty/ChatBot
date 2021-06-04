@@ -1,0 +1,9 @@
+contact_details,email,@,gmail.com,yahoo.com,outlook.com,.in,.co,.org
+contact_details,phone,/91/,/(\d{10})/
+otp,otp,/(\d{4})/
+price,large,max,large,party
+price,medium,medium
+price,small,small pizza ,mini pizza
+size_of_pizza,medium,medium,pizza for two
+size_of_pizza,small,small,pizza for one,mini
+size_of_pizza,Large,large,party,big,max,maximum
